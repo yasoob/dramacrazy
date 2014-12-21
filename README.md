@@ -19,5 +19,8 @@ It's output is like this:
     [Drama Crazy]  Downloading dae-jang-geum-episode-54.mp4 (58923294 bytes)
         600.0 K [1.04%]
 
+Requirements:
+- requests 'pip install requests'
+
 Author:
 - Muhammad Yasoob Ullah Khalid
